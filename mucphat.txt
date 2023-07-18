@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "1. Chuyển làn không có tín hiệu báo trước (Không Xi nhan)",
+    "detail": "Mức phạt\n\n400.000 đồng đến 600.000 đồng (Điểm a Khoản 2 Điều 5 Nghị định 100)\n3.000.000 đồng đến 5.000.000 đồng nếu vi phạm trên đường cao tốc (Điểm g Khoản 5 Điều 5 Nghị định 100)\nHình phạt bổ sung nếu có\n\nXe ô tô vi phạm: Tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng nếu vi phạm trên cao tốc (Điểm b Khoản 11 Điều 5 Nghị định 100)",
+    "type": 1
+  },
+  {
+    "id": 2,
+    "name": "2. Chuyến hướng không có tín hiệu báo hướng rẽ",
+    "detail": "Mức phạt\n\n800.000 đồng đến 1.000.000 đồng (Điểm c Khoản 3 Điều 5 Nghị định 100)",
+    "type": 1
+  },
+  {
+    "id": 3,
+    "name": "3. Điều khiển xe rẽ trái/phải tại nơi có biển báo hiệu có nội dung cấm rẽ trái/phải đối với loại phương tiện đang điều khiển",
+    "detail": "Mức phạt\n\n800.000 đồng đến 1.000.000 đồng (Điểm k Khoản 3 Điều 5 Nghị định 100; Điểm a Khoản 3 Điều 2 Nghị định 123/2021/NĐ-CP)",
+    "type": 1
+  },
+  {
+    "id": 4,
+    "name": "4. Dùng tay sử dụng điện thoại di động khi đang điều khiển xe ô tô chạy trên đường",
+    "detail": "Mức phạt\n\n2.000.000 đồng đến 3.000.000 đồng (Điểm a Khoản 4 Điều 5 Nghị định 100; Điểm d Khoản 34 Điều 2 Nghị định 123/2021/NĐ-CP)\nHình phạt bổ sung nếu có\n\nXe ô tô vi phạm: Tước quyền sử dụng Giấy phép lái xe từ 01 đến 03 tháng; từ 02 tháng đến 04 tháng nếu gây tai nạn giao thông (Điểm b, c Khoản 11 Điều 5 Nghị định 100)",
+    "type": 1
+  },
+  {
+    "id": 5,
+    "name": "5. Vượt đèn đỏ, đèn vàng (Lưu ý: Đèn tín hiệu vàng nhấp nháy thì được đi nhưng phải giảm tốc độ)",
+    "detail": "Mức phạt\n\n4.000.000 đồng đến 6.000.000 đồng (Điểm a Khoản 5 Điều 5 Nghị định 100; Điểm đ Khoản 34 Điều 2 Nghị định 123/2021/NĐ-CP)\nHình phạt bổ sung nếu có\n\nTước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng; từ 02 đến 04 tháng nếu gây tai nạn giao thông. (Điểm b, c Khoản 11 Điều 5 Nghị định 100)",
+    "type": 1
+  },
+  {
+    "id": 6,
+    "name": "6. Đi không đúng phần đường hoặc làn đường quy định (Đi sai làn)",
+    "detail": "Mức phạt\n\n3.000.000 đồng đến 5.000.000 đồng (Điểm đ Khoản 5 Điều 5 Nghị định 100)\n10.000.000 đồng đến 12.000.000 đồng nếu gây tai nạn giao thông. (Điểm a Khoản 7 Điều 5 Nghị định 100)\nHình phạt bổ sung nếu có\n\nTước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng nếu gây tai nạn (Điểm c Khoản 11 Điều 5 Nghị định 100)",
+    "type": 1
+  },
+  {
+    "id": 7,
+    "name": "7. Đi không đúng theo chỉ dẫn của vạch kẻ đường",
+    "detail": "Mức phạt\n\n300.000 đồng đến 400.000 đồng (Điểm a Khoản 1 Điều 5 Nghị định 100)",
+    "type": 1
+  },
+  {
+    "id": 8,
+    "name": "8. Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều”",
+    "detail": "Mức phạt\n\n10.000.000 đồng đến 12.000.000 đồng nếu gây tai nạn giao thông. (Điểm a Khoản 7 Điều 5 Nghị định 100)\n16.000.000 đồng đến 18.000.000 đồng nếu đi ngược chiều trên đường cao tốc, lùi xe trên đường cao tốc (Điểm a Khoản 8 Điều 5 Nghị định 100)\nHình phạt bổ sung nếu có\n\nTước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng (Điểm c Khoản 11 Điều 5 Nghị định 100)\n\nTước quyền sử dụng Giấy phép lái xe từ 05 tháng đến 07 tháng (Điểm đ Khoản 11 Điều 5 Nghị định 100)",
+    "type": 1
+  },
+  {
+    "id": 9,
+    "name": "9. Đi vào đường có biển báo cấm phương tiện đang điều khiển",
+    "detail": "Mức phạt\n\n2.000.000 đồng đến 3.000.000 đồng (Điểm b Khoản 4 Điều 5 Nghị định 100; Điểm d Khoản 34 Điều 2 Nghị định 123/2021/NĐ-CP)\nHình phạt bổ sung nếu có\n\nTước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng (Điểm b Khoản 11 Điều 5 Nghị định 100)",
+    "type": 1
+  },
+  {
+    "id": 10,
+    "name": "10. Điều khiển xe ô tô không có gương chiếu hậu",
+    "detail": "Mức phạt\n\n300.000 đồng đến 400.000 đồng(Điểm a Khoản 2 Điều 16 Nghị định 100)",
+    "type": 1
+  },
+  {
+    "id": 11,
+    "name": "11. Không có giấy phép lái xe (Với người đã đủ tuổi được điều khiển phương tiện)",
+    "detail": "Mức phạt\n\n10.000.000 đồng đến 12.000.000 đồng(Khoản 11 Điều 2 Nghị định 123/2021/NĐ-CP)",
+    "type": 1
+  },
+  {
+    "id": 12,
+    "name": "12. Điều khiển xe không có Giấy đăng ký xe",
+    "detail": "Mức phạt\n\n2.000.000 đồng đến 3.000.000 đồng (Khoản 9 Điều 2 Nghị định 123/2021/NĐ-CP)",
+    "type": 1
+  },
+  {
+    "id": 13,
+    "name": "13. Không có hoặc không mang theo Giấy chứng nhận bảo hiểm trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực",
+    "detail": "Mức phạt\n\n400.000 đồng đến 600.000 đồng (Điểm b Khoản 4 Điều 21 Nghị định 100)",
+    "type": 1
+  },
+  {
+    "id": 14,
+    "name": "14. Có nồng độ cồn trong máu hoặc hơi thở khi điều khiển xe",
+    "detail": "Mức phạt\n\n6.000.000 đồng đến 8.000.000 đồng nếu trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở. (Điểm c Khoản 6 Điều 5 Nghị định 100)\n16.000.000 đồng đến 18.000.000 đồng nếu có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở. (Điểm c Khoản 8 Điều 5 Nghị định 100)\n30.000.000 đồng đến 40.000.000 đồng nếu có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở. (Điển a Khoản 10 Điều 5 Nghị định 100)\nMức phạt kèm theo (Theo mục số thứ tự bên trên mức phạt)\n\nTước quyền sử dụng Giấy phép lái xe từ 10 tháng đến 12 tháng (Điểm đ khoản 10 Điều 6; Điểm e Khoản 11 Điều 5 Nghị định 100)\nTước quyền sử dụng Giấy phép lái xe từ 16 tháng đến 18 tháng. (Điểm e Khoản 10 Điều 5; Điểm g Khoản 11 Điều 5 Nghị định 100)\nTước quyền sử dụng Giấy phép lái xe từ 22 tháng đến 24 tháng. (Điểm g Khoản 10 Điều 5; Điểm h Khoản 11 Điều 5 Nghị định 100)",
+    "type": 1
+  },
+  {
+    "id": 15,
+    "name": "15. Điều khiển xe chạy quá tốc độ",
+    "detail": "Mức phạt\n\nKhông bị phạt nếu chạy quá tốc độ cho phép dưới 05 km/h (Điểm a Khoản 3 Điều 5 Nghị định 100)\n800.000 đồng đến 1.000.000 đồng nếu chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h. (Điểm a Khoản 3 Điều 5 Nghị định 100)\n4.000.000 đồng đến 6.000.000 đồng nếu chạy quá tốc độ quy định từ 10 km/h đến 20 km/h (Điểm i Khoản 5 Điều 5 Nghị định 100; Điểm đ Khoản 34 Điều 2 Nghị định 123/2021/NĐ-CP) – Tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng (Điểm b Khoản 11 Điều 5 Nghị định 100)\n6.000.000 đồng đến 8.000.000 đồng nếu chạy quá tốc độ quy định trên 20 km/h đến 35 km/h (Điểm a Khoản 6 Điều 5 Nghị định 100) – Tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng(Điểm c Khoản 11 Điều 5 Nghị định 100)\n10.000.000 đồng đến 12.000.000 đồng nếu chạy quá tốc độ quy định trên 35 km/h. (Điểm c Khoản 7 Điều 5 Nghị định 100) – Tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng (Điểm c Khoản 11 Điều 5 Nghị định 100)",
+    "type": 1
+  },
+  {
+    "id": 16,
+    "name": "1. Chuyển làn không có tín hiệu báo trước (Không Xi nhan)",
+    "detail": "Mức phạt\n\n100.000 đồng đến 200.000 đồng (Điểm i Khoản 1 Điều 6 Nghị định 100)",
+    "type": 2
+  },
+  {
+    "id": 17,
+    "name": "2. Chuyến hướng không có tín hiệu báo hướng rẽ",
+    "detail": "Mức phạt\n\n400.000 đồng đến 600.000 đồng(Điểm a Khoản 3 Điều 6 Nghị định 100)",
+    "type": 2
+  },
+  {
+    "id": 18,
+    "name": "3. Điều khiển xe rẽ trái/phải tại nơi có biển báo hiệu có nội dung cấm rẽ trái/phải đối với loại phương tiện đang điều khiển",
+    "detail": "Mức phạt\n\n400.000 đồng đến 600.000 đồng (Điểm a Khoản 3 Điều 6 Nghị định 100; Điểm a Khoản 4 Điều 2 Nghị định 123/2021/NĐ-CP)",
+    "type": 2
+  },
+  {
+    "id": 19,
+    "name": "4. Người đang điều khiển xe máy sử dụng điện thoại di động, thiết bị âm thanh (trừ thiết bị trợ thính)",
+    "detail": "Mức phạt\n\n800.000 đồng đến 1.000.000 đồng (Điểm h Khoản 4 Điều 6 Nghị định 100, Điểm g Khoản 34 Điều 2 Nghị định 123/2021/NĐ-CP)",
+    "type": 2
+  },
+  {
+    "id": 20,
+    "name": "5. Vượt đèn đỏ, đèn vàng (Lưu ý: Đèn tín hiệu vàng nhấp nháy thì được đi nhưng phải giảm tốc độ)",
+    "detail": "Mức phạt\n\n800.000 đồng đến 1.000.000 đồng (Điểm e, khoản 4, Điều 6 Nghị định 100; Điểm g Khoản 34 Điều 2 Nghị định 123/2021/NĐ-CP)",
+    "type": 2
+  },
+  {
+    "id": 21,
+    "name": "6. Đi không đúng phần đường hoặc làn đường quy định (Đi sai làn)",
+    "detail": "Mức phạt\n\n400.000 đồng đến 600.000 đồng (Điểm g Khoản 3 Điều 6 Nghị định 100)\n4.000.000 đồng đến 5.000.000 đồng nếu gây tai nạn giao thông. (Điểm b Khoản 7 Điều 6 Nghị định 100) – Tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng (Điểm c Khoản 10 Điều 6 Nghị định 100)",
+    "type": 2
+  },
+  {
+    "id": 22,
+    "name": "7. Đi không đúng theo chỉ dẫn của vạch kẻ đường",
+    "detail": "Mức phạt\n\n100.000 đồng đến 200.000 đồng (Điểm a Khoản 1 Điều 6 Nghị định 100)",
+    "type": 2
+  },
+  {
+    "id": 23,
+    "name": "8. Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều”",
+    "detail": "Mức phạt\n\n1.000.000 đồng đến 2.000.000 đồng (Khoản 5 Điều 6 Nghị định 100) – Tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng.\n4.000.000 đồng đến 5.000.000 đồng nếu gây tai nạn giao thông. (Điểm b Khoản 7 Điều 6 Nghị định 100) – Tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng. (Điểm c Khoản 10 Điều 6 Nghị định 100)",
+    "type": 2
+  },
+  {
+    "id": 24,
+    "name": "9. Đi vào đường có biển báo cấm phương tiện đang điều khiển",
+    "detail": "Mức phạt\n\n400.000 đồng đến 600.000 đồng (Điểm i Khoản 3 Điều 6 Nghị định 100)\nHình phạt bổ sung nếu có\n\nTước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng. (Điểm b Khoản 10 Điều 6 Nghị định 100)",
+    "type": 2
+  },
+  {
+    "id": 25,
+    "name": "10. Điều khiển xe máy không có gương chiếu hậu bên trái hoặc có nhưng không có tác dụng",
+    "detail": "Mức phạt\n\n100.000 đồng đến 200.000 đồng (Điểm a Khoản 1 Điều 17 Nghị định 100)",
+    "type": 2
+  },
+  {
+    "id": 26,
+    "name": "11. Không có giấy phép lái xe (Với người đã đủ tuổi được điều khiển phương tiện)",
+    "detail": "Mức phạt\n\n1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi lanh dưới 175 cm3 (Khoản 11 Điều 2 Nghị định 123/2021/NĐ-CP)\n4.000.000 đồng đến 5.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi lanh từ 175 cm3 trở lên (Khoản 11 Điều 2 Nghị định 123/2021/NĐ-CP)",
+    "type": 2
+  },
+  {
+    "id": 27,
+    "name": "12. Điều khiển xe không có Giấy đăng ký xe",
+    "detail": "Mức phạt\n\n800.000 đồng đến 1.000.000 đồng (Điểm a Khoản 2 Điều 17; Điểm m Khoản 34 Điều 2 Nghị định 123/2021/NĐ-CP)",
+    "type": 2
+  },
+  {
+    "id": 28,
+    "name": "13. Không có hoặc không mang theo Giấy chứng nhận bảo hiểm trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực",
+    "detail": "Mức phạt\n\n100.000 đồng đến 200.000 đồng(Điểm a Khoản 2 Điều 21 Nghị định 100)",
+    "type": 2
+  },
+  {
+    "id": 29,
+    "name": "14. Có nồng độ cồn trong máu hoặc hơi thở khi điều khiển xe",
+    "detail": "Mức phạt\n\n2.000.000 đồng đến 3.000.000 đồng nếu trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở. (Điểm c Khoản 6 Điều 6 Nghị định 100)\n4.000.000 đồng đến 5.000.000 đồng nếu có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở. (Điểm c Khoản 7 Điều 6 Nghị định 100)\n6.000.000 đồng đến 8.000.000 đồng nếu có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở. (Điểm e Khoản 8 Điều 6 Nghị định 100)\nMức phạt kèm theo (Theo mục số thứ tự bên trên mức phạt)\n\nTước quyền sử dụng Giấy phép lái xe từ 10 tháng đến 12 tháng (Điểm đ khoản 10 Điều 6; Điểm e Khoản 11 Điều 5 Nghị định 100)\nTước quyền sử dụng Giấy phép lái xe từ 16 tháng đến 18 tháng. (Điểm e Khoản 10 Điều 5; Điểm g Khoản 11 Điều 5 Nghị định 100)\nTTước quyền sử dụng Giấy phép lái xe từ 22 tháng đến 24 tháng. (Điểm g Khoản 10 Điều 5; Điểm h Khoản 11 Điều 5 Nghị định 100)",
+    "type": 2
+  },
+  {
+    "id": 30,
+    "name": "15. Điều khiển xe chạy quá tốc độ",
+    "detail": "Mức phạt\n\nKhông bị phạt nếu chạy quá tốc độ cho phép dưới 05 km/h (Điểm c Khoản 2 Điều 6 Nghị định 100)\n300.000 đồng đến 400.000 đồng nếu chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h. (Điểm c Khoản 2 Điều 6 Nghị định 100; Điểm k Khoản 34 Điều 2 Nghị định 123/2021/NĐ-CP)\n800.000 đồng đến 1.000.000 đồng nếu chạy quá tốc độ quy định từ 10 km/h đến 20 km/h (Điểm a Khoản 4 Điều 6 Nghị định 100; Điểm g Khoản 34 Điều 2 Nghị định 123/2021/NĐ-CP) – Tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng (Điểm b Khoản 11 Điều 5 Nghị định 100)\n4.000.000 đồng đến 5.000.000 đồng nếu chạy quá tốc độ quy định trên 20 km/h. (Điểm a Khoản 7 Điều 6 Nghị định 100) – Tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng (Điểm c Khoản 10 Điều 6)",
+    "type": 2
+  },
+  {
+    "id": 31,
+    "name": "16. Không đội “mũ bảo hiểm cho người đi mô tô, xe máy” hoặc đội “mũ bảo hiểm cho người đi mô tô, xe máy” không cài quai đúng quy cách",
+    "detail": "Mức phạt\n\n400.000 đồng đến 600.000 đồng (Điểm b Khoản 4 Điều 2 Nghị định 123/2021/NĐ-CP)",
+    "type": 2
+  },
+  {
+    "id": 32,
+    "name": "17. Chở người ngồi trên xe không đội “mũ bảo hiểm cho người đi mô tô, xe máy” hoặc đội “mũ bảo hiểm cho người đi mô tô, xe máy” không cài quai đúng quy cách",
+    "detail": "Mức phạt\n\n400.000 đồng đến 600.000 đồng(Điểm b Khoản 4 Điều 2 Nghị định 123/2021/NĐ-CP)",
+    "type": 2
+  }
+]
